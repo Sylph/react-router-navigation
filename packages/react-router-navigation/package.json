@@ -6,7 +6,7 @@
   "author": "Léo Le Bras <leo.lebrasf@gmail.com> (https://github.com/LeoLeBras/)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeoLeBras/react-router-navigation.git"
+    "url": "git+https://github.com/Sylph/react-router-navigation.git"
   },
   "keywords": ["react-native", "ios", "android", "router", "navigation", "navigator"],
   "peerDependencies": {
